@@ -1,0 +1,14 @@
+.container{
+    background-color: aqua;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#companyname{
+    width: 250px;
+    height: 50px;
+    background-color: crimson;
+    font-size: larger;
+}
+#body{
+    background-color: gold;
+}
